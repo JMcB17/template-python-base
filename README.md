@@ -6,7 +6,7 @@ To find all my templates, go to:
 
 Includes:
 - `README.md`
-  - that's this file
+    - that's this file
     - https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
 - `.gitignore`
     - https://github.com/github/gitignore/blob/main/Python.gitignore
@@ -15,6 +15,6 @@ Includes:
     - https://choosealicense.com/licenses/gpl-3.0/
     - https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
 - `Pipfile`
-  - https://pipenv.pypa.io/en/latest/
-  - https://pypi.org/project/pipenv/
-  - https://github.com/pypa/pipenv
+    - https://pipenv.pypa.io/en/latest/
+    - https://pypi.org/project/pipenv/
+    - https://github.com/pypa/pipenv
