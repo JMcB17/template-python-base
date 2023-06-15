@@ -20,6 +20,7 @@ Includes:
     - shebang
     - `main()` function stub
     - main entry point which calls `main()`
+    - https://docs.python.org/3/library/__main__.html
 - `Pipfile`
     - https://pipenv.pypa.io/en/latest/
     - https://pypi.org/project/pipenv/
