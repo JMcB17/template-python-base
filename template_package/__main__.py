@@ -1,2 +1,3 @@
-import template_package
-template_package.main()
+from . import main
+
+main()
