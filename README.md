@@ -1,6 +1,9 @@
 # template-python-base
 Base for python templates.
 
+To find all my templates, go to:
+- https://github.com/joelsgp?tab=repositories&q=&type=template
+
 Includes:
 - `README.md`
   - that's this file
