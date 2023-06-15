@@ -14,6 +14,10 @@ Includes:
     - https://www.gnu.org/licenses/gpl-3.0.en.html
     - https://choosealicense.com/licenses/gpl-3.0/
     - https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
+- `main.py`
+  - shebang
+  - `main()` function stub
+  - main entry point which calls `main()`
 - `Pipfile`
   - https://pipenv.pypa.io/en/latest/
   - https://pypi.org/project/pipenv/
