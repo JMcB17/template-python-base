@@ -43,6 +43,7 @@ Includes:
     - https://github.com/pypa/pipenv
 - `pyproject.toml`
     - https://peps.python.org/pep-0621/
+    - https://packaging.python.org/en/latest/specifications/declaring-project-metadata
     - https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html
     - https://packaging.python.org/en/latest/guides/distributing-packages-using-setuptools/
     - https://pycqa.github.io/isort/docs/configuration/config_files.html#pyprojecttoml-preferred-format
