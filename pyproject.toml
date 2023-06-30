@@ -4,6 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "template_package"
+description = "template_package"
 readme = "README.md"
 requires-python = ">=3.8"
 license = {file = "LICENSE"}
@@ -20,7 +21,7 @@ optional-dependencies = []
 dynamic = ["version"]
 
 [project.urls]
-Home = "https://github.com/joelsgp/uoy-assessment-uploader"
+Home = "https://github.com/joelsgp/template-package"
 
 [project.scripts]
 template-package = "template_package:main"
